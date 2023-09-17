@@ -3,10 +3,6 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-import org.junit.Before;
-import org.junit.Test;
-
 public class CALCULADORAJUNITTEST {
     private int numero1; // Variável para armazenar o primeiro número
     private int numero2; // Variável para armazenar o segundo número
