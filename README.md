@@ -74,4 +74,4 @@ Este projeto é de código aberto.
 
 Este projeto foi desenvolvido por Gabriel Arruda.
 
-## Última atualização: 18/09/2023
+## Última atualização: 14/11/2023
